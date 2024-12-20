@@ -38,7 +38,7 @@
   <tr>
     <td align="center" width="100">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqn9iKgwffPYyjMrQArm6To-kifVwHcyOqCA&s" width="40" height="40" alt="Microsoft SQL" />
-      <br>Microoft SQL
+      <br>Microsoft SQL
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
@@ -67,10 +67,10 @@
 
 ```javascript
 const arsalan = {
-    code: [".NET", "C#", "JavaScript", "HTML", "CSS"],
+    code: [".NET", "C#", "Html", "Css", "Bootstrap5",],
     technologies: {
         backEnd: {
-            dotnet: ["ASP.NET Core", "Entity Framework", "NopCommerce"],
+            dotnet: ["ASP.NET Core", "Entity Framework"],
             databases: ["SQL Server", "MySQL"]
         },
         frontEnd: ["HTML5", "CSS3", "JavaScript"],
