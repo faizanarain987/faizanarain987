@@ -66,7 +66,7 @@
 <h2 align="center">🚀 Superpowers 🚀</h2>
 
 ```javascript
-const arsalan = {
+const faizan = {
     code: [".NET", "C#", "Html", "Css", "Bootstrap5",],
     technologies: {
         backEnd: {
