@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&center=true&vCenter=true&random=false&width=900&height=70&lines=👋+Welcome+to+Muhammad+Arsalan's+Digital+World+🌟;Building+Tomorrow's+Solutions+Today+💻;Transforming+Ideas+into+Code+✨;.NET+Developer+%7C+Problem+Solver+%7C+Innovator+🚀" alt="Typing SVG" />
+  <img width="100%" height="auto" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&center=true&vCenter=true&random=false&width=900&height=70&lines=👋+Welcome+to+Muhammad+Faizan's+Digital+World+🌟;Building+Tomorrow's+Solutions+Today+💻;Transforming+Ideas+into+Code+✨;.NET+Developer+%7C+Problem+Solver+%7C+Innovator+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqn9iKgwffPYyjMrQArm6To-kifVwHcyOqCA&s" width="40" height="40" alt="Microsoft SQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="100">
