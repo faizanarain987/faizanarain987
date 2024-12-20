@@ -38,7 +38,7 @@
   <tr>
     <td align="center" width="100">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqn9iKgwffPYyjMrQArm6To-kifVwHcyOqCA&s" width="40" height="40" alt="Microsoft SQL" />
-      <br>PostgreSQL
+      <br>Microoft SQL
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
@@ -71,10 +71,10 @@ const arsalan = {
     technologies: {
         backEnd: {
             dotnet: ["ASP.NET Core", "Entity Framework", "NopCommerce"],
-            databases: ["SQL Server", "PostgreSQL", "MySQL"]
+            databases: ["SQL Server", "MySQL"]
         },
         frontEnd: ["HTML5", "CSS3", "JavaScript"],
-        tools: ["Git", "Visual Studio", "VS Code"]
+        tools: ["Visual Studio", "VS Code"]
     },
     superPowers: {
         problemSolving: "Turns coffee into code ☕",
@@ -94,33 +94,32 @@ const arsalan = {
 <h2 align="center">📊 Dev Metrics 📊</h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arxalan007&theme=aura" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizanarain987&theme=aura" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arxalan007&theme=aura" width="48%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arxalan007&theme=aura" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faizanarain987&theme=aura" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faizanarain987&theme=aura" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arxalan007&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanarain987&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arxalan007&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanarain987&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
 <h2 align="center">🏆 Achievements Unlocked 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arxalan007&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=faizanarain987&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 <h2 align="center">🌟 Skill Progress 🌟</h2>
 
 ```text
 C#/.NET          ███████████████████░   95%
-NopCommerce      ██████████████████░░   90%
 Problem Solving  ███████████████████░   95%
 Quick Learning   ██████████████████░░   90%
 Team Player      ███████████████████░   95%
@@ -129,11 +128,11 @@ Adaptability     ██████████████████░░   
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
-  <a href="https://www.linkedin.com/in/muhammadarsalanofficial/">
-    <img src="https://img.shields.io/badge/-Muhammad_Arsalan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/muhammad-faizan-292740263">
+    <img src="https://img.shields.io/badge/-Muhammad_Faizan-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Arxalan007">
-    <img src="https://img.shields.io/badge/-Arxalan007-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/faizanarain987">
+    <img src="https://img.shields.io/badge/-faizanarain987-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -142,11 +141,11 @@ Adaptability     ██████████████████░░   
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arxalan007&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=faizanarain987&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <sup>Made with ❤️ and ☕ by Muhammad Arsalan</sup>
+  <sup>Made with ❤️ and ☕ by Muhammad Faizan</sup>
 </div>
